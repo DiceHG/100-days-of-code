@@ -1,4 +1,4 @@
-## Day 5 Project: Password Generator
+# Day 5 Project: Password Generator
 
 ## Table of contents
 
@@ -13,7 +13,7 @@
 
 Generate a random password based on user inputs defining number of letters, symbols, and numbers
 
-## Notes
+### Notes
 
 - ...
 

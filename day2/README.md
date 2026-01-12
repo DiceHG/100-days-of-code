@@ -1,4 +1,4 @@
-## Day 2 Project: Tip calculator
+# Day 2 Project: Tip calculator
 
 ## Table of contents
 
@@ -13,7 +13,7 @@
 
 - Calculate the tip amount based off a total bill amount, number of people and tip percentage
 
-## Notes
+### Notes
 
 - Notes: ...
 

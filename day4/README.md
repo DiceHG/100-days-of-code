@@ -1,4 +1,4 @@
-## Day 4 Project: Jokenpo (Rock, Paper, Scissors)
+# Day 4 Project: Jokenpo (Rock, Paper, Scissors)
 
 ## Table of contents
 
@@ -13,7 +13,7 @@
 
 A Rock, Paper, Scissors game implemented in Python using ASCII art. The user plays against the computer, which makes a random choice each round.
 
-## Notes
+### Notes
 
 - The game uses ASCII art from [ASCII Art Collection](https://ascii.co.uk/art)
 - The game follows the simple rule of Rock > Scissors > Paper > Rock

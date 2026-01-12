@@ -1,4 +1,4 @@
-## Day 7 Project: Hangman Game
+# Day 7 Project: Hangman Game
 
 ## Table of contents
 
@@ -13,7 +13,7 @@
 
 A text-based Hangman game. Following the basic rule of guessing letters to discover the word
 
-## Notes
+### Notes
 
 - Added guard against multiple letters guess
 - Used `set` for faster comparison time
