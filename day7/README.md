@@ -13,7 +13,15 @@
 
 A text-based Hangman game. Following the basic rule of guessing letters to discover the word
 
+<<<<<<< HEAD
+
 ### Notes
+
+=======
+
+## Notes
+
+> > > > > > > e298ebf1185f30bbb26de91da6e6932900427901
 
 - Added guard against multiple letters guess
 - Used `set` for faster comparison time
