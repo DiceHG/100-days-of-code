@@ -25,7 +25,15 @@ The goal is to code every day, improve consistency, and build real projects.
 - Day 09 ✅
 - Day 10 ✅
 - Day 11 ✅
-- Day 12 ⏳
+- Day 12 ✅
+- Day 13 ✅
+- Day 14 ✅
+- Day 15 ✅
+- Day 16 ✅
+- Day 17 ✅
+- Day 18 ✅
+- Day 19 ✅
+- Day 20 ⏳
 - ...
 - Day 100 ⏳
 
