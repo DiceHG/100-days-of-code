@@ -13,7 +13,6 @@ class Snake(t.Turtle):
     def add_segment(self, position):
         turtle = t.Turtle(shape="square")
         turtle.pu()
-        turtle.shapesize = 20
         turtle.color("white")
         turtle.goto(position)
         self.body.append(turtle)
